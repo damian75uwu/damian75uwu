@@ -6,9 +6,12 @@
   - Java full stack programming
   - WordPress, Woocommerce, Ecommerce and Web Accessibility
   - Microcomputer systems and networks.
+- Languages and Tools:
+python Java Javascript SQL
 - 📫 How to reach me:
   - https://www.linkedin.com/in/daiana-milenova-tsvetanova
-  - daiana.milenova7@gmail.com
+  - daiana.milenova7@gmail.com 
+
 <!---
 damian75uwu/damian75uwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
