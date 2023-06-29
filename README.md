@@ -11,6 +11,11 @@
   - SQL 💻
   - HTML | CSS 📱
   - Java | Javascript ⌨️
+- 📓 What i currently study:
+  - Machine learning 🤖
+  - C++🧑‍💻
+  - R 🖥️
+  - Docker🖱️
 - 📫 How to reach me:
   - https://www.linkedin.com/in/daiana-milenova-tsvetanova
   - daiana.milenova7@gmail.com 
