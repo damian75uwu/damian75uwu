@@ -6,7 +6,7 @@
   - Java full stack programming
   - WordPress, Woocommerce, Ecommerce and Web Accessibility
   - Microcomputer systems and networks.
-- Languages:
+- 📔Languages:
   - Python 🐍
   - SQL 💻
   - HTML | CSS 📱
