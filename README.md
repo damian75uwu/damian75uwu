@@ -6,7 +6,7 @@
   - Java full stack programming
   - WordPress, Woocommerce, Ecommerce and Web Accessibility
   - Microcomputer systems and networks.
-- 📔Languages:
+- 📔Programming languages:
   - Python            🐍
   - SQL               💻
   - HTML | CSS        📱
@@ -16,6 +16,11 @@
   - C++               🧑‍💻
   - R                 🖥️
   - Docker            🖱️
+- 🔤 Languages:
+  - Spanish 💃🏻
+  - English 🍔
+  - Bulgarian 🌹
+  - Valencian 🏖️
 - 📫 How to reach me:
   - https://www.linkedin.com/in/daiana-milenova-tsvetanova
   - daiana.milenova7@gmail.com 
